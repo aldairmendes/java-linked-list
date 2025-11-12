@@ -1,6 +1,6 @@
 # Estruturas de Dados - 2025.2
-
-**Prof. Daniel Alencar**  
+**Aluno: Aldair Ryan Fernandes Mendes**
+**Prof.: Daniel Alencar**  
 IFCE - Campus Maracanaú
 
 ---
